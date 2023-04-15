@@ -3,9 +3,8 @@ title:            Lv Xiao Gitbook
 longtitle:        Lv Xiao Gitbook
 author:           Lv Xiao
 email:            ielvxiao@gmail.com
-description: >
-  This is my Gitbook!
-
+description: This is my Gitbook!
+locale: "zh_CN"
 version:          1.0
 gitbook_version:  3.2.3
 
@@ -64,3 +63,4 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - jekyll-seo-tag
